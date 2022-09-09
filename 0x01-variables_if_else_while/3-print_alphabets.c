@@ -2,7 +2,7 @@
 
 /**
  * main - about to start
- * description : auth Chisom
+ * 
  * Return: Always 0
  */
 int main(void)
