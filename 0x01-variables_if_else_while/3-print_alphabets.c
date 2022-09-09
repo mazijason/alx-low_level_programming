@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabetic in lower and upper case
- *
- * Return: Always (Success)
+ * main - about to start
+ * description : auth Chisom
+ * Return: Always 0
  */
 int main(void)
 {
